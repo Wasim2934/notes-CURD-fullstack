@@ -9,8 +9,8 @@ const {
 const router = express.Router();
 
 router.post("/create", createNotesContoller);
-router.get("/read", getNotesController);
-router.put("/update/:id", updateNotesController); 
+router.get("/getNotes", getNotesController);
+router.put("/update/:id", updateNotesController);
 router.delete("/delete/:id", deleteNotesController);
 
 module.exports = router;
