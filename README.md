@@ -10,7 +10,7 @@ This project was built to understand how a frontend application communicates wit
 
 The dashboard allows users to create new notes and manage their existing notes from a single interface.
 
-![Notes CRUD Application](../notes/frontend/src/screenshot/ss1.png)
+![](../notes/frontend/src/screenshot/ss1.png)
 
 ## 🚀 Features
 
