@@ -93,7 +93,7 @@ const App = () => {
                   className="mb-2 block text-sm font-medium text-slate-700"
                 >
                   Title
-                </label>                        
+                </label>
 
                 <input
                   name="title"

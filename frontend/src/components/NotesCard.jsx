@@ -12,7 +12,7 @@ const NotesCard = ({ note, deleteNote, updateNote }) => {
         <p className="note-description text-sm leading-7 text-slate-600">
           {note.description}
         </p>
-      </div>
+      </div>                
 
       <div className="flex gap-3 border-t border-slate-100 pt-4">
         <button
